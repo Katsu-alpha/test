@@ -5,9 +5,8 @@ import (
 )
 
 func main() {
+	// simplified
 	fmt.Println("Hello!!")
-	fmt.Println("Hello!!!")
-	fmt.Println("Hello!!!!!!")
 	test()
 }
 
